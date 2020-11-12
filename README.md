@@ -1,4 +1,12 @@
-# vue3-todoList
+| 阶段                    | 技术栈                                       |
+| ----------------------- | -------------------------------------------- |
+| 阶段一：vue3-todoList   | 初识compositionAPI                           |
+| 阶段二：vue3-仿知乎日报 | 对compositionAPI、vite、typescript进一步了解 |
+
+B站免费vue3教学视频：https://www.bilibili.com/video/BV13V411S79q/
+
+
+
 ### vue3.0入门到精通
 
 #### vue3.0 安装
