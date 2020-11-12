@@ -43,14 +43,14 @@ export default {
       inputValue.value = ''
     }
 
-    const updateStatus = (index, status) => {
+    const updateStatus = (index:any, status:any) => {
       store.commit('updateStatus', {
         index,
         status
       })
     }
 
-    const deleteTask = (index) => {
+    const deleteTask = (index:any) => {
       store.commit('deleteTask', index)
     }
 
